@@ -1,0 +1,134 @@
+[
+
+	{
+	     "id":1,
+	     "code":"SEC001",
+	     "description":"All assets debenture"
+	},
+	{
+	     "id":2,
+	     "code":"SEC002",
+	     "description":"Assignment of rights"
+	},
+	{
+	     "id":3,
+	     "code":"SEC003",
+	     "description":"Authority-to-Collect"
+	},
+	{
+	     "id":4,
+	     "code":"SEC004",
+	     "description":"Bank Guarantee"
+	},
+	{
+	     "id":5,
+	     "code":"SEC005",
+	     "description":"Cash"
+	},
+	{
+	     "id":6,
+	     "code":"SEC006",
+	     "description":"Chattel mortgage"
+	},
+	{
+	     "id":7,
+	     "code":"SEC007",
+	     "description":"Corporate Guarantee"
+	},
+	{
+	     "id":8,
+	     "code":"SEC008",
+	     "description":"Counter Indemnity"
+	},
+	{
+	     "id":9,
+	     "code":"SEC009",
+	     "description":"Domiciliation of account receivables"
+	},
+	{
+	     "id":10,
+	     "code":"SEC010",
+	     "description":"Domiciliation of contract proceeds"
+	},
+	{
+	     "id":11,
+	     "code":"SEC011",
+	     "description":"Domiciliation of Salaries, Allowances and other benefits"
+	},
+	{
+	     "id":12,
+	     "code":"SEC012",
+	     "description":"Equitable mortgage"
+	},
+	{
+	     "id":13,
+	     "code":"SEC013",
+	     "description":"Insurance bond"
+	},
+	{
+	     "id":14,
+	     "code":"SEC014",
+	     "description":"Irrevocable Standing Payment Order (ISPO)"
+	},
+	{
+	     "id":15,
+	     "code":"SEC015",
+	     "description":"Legal mortgage"
+	},
+	{
+	     "id":16,
+	     "code":"SEC016",
+	     "description":"Letter of undertaking"
+	},
+	{
+	     "id":17,
+	     "code":"SEC017",
+	     "description":"Lien on shipping documents"
+	},
+	{
+	     "id":18,
+	     "code":"SEC018",
+	     "description":"Life Assurance Policy"
+	},
+	{
+	     "id":19,
+	     "code":"SEC019",
+	     "description":"Quoted Securities"
+	},
+	{
+	     "id":20,
+	     "code":"SEC020",
+	     "description":"Unquoted Securities"
+	},
+	{
+	     "id":21,
+	     "code":"SEC021",
+	     "description":"Mortgage debenture"
+	},
+	{
+	     "id":22,
+	     "code":"SEC022",
+	     "description":"Negative pledge"
+	},
+	{
+	     "id":23,
+	     "code":"SEC023",
+	     "description":"Personal Guarantee"
+	},
+	{
+	     "id":24,
+	     "code":"SEC024",
+	     "description":"Post dated cheque"
+	},
+	{
+	     "id":25,
+	     "code":"SEC025",
+	     "description":"Stock hypothecation"
+	},
+	{
+	     "id":26,
+	     "code":"SEC026",
+	     "description":"Trust Receipt or Warehouse Warrants"
+	}
+		
+]

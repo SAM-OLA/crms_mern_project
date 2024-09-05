@@ -1,0 +1,99 @@
+[
+ 
+	{
+	     "id":1,
+	     "code":"FS1000",
+	     "description":"Balance Sheet"
+	},
+	{
+	     "id":2,
+	     "code":"FS2001",
+	     "description":"CBN Intervention Funds - Agriculture Credit Guarantee Scheme Fund (ACGSF) "
+	},
+	{
+	     "id":3,
+	     "code":"FS2002",
+	     "description":"CBN Intervention Funds - Commercial Agriculture Credit Scheme (CACS) "
+	},
+	{
+	     "id":4,
+	     "code":"FS2003",
+	     "description":"CBN Intervention Funds - Nigeria Incentive-based Risk sharing System for Agricultural Lending (NIRSAL) "
+	},
+	{
+	     "id":5,
+	     "code":"FS2004",
+	     "description":"CBN Intervention Funds - Power & Airline Intervention Fund (PAIF) "
+	},
+	{
+	     "id":6,
+	     "code":"FS2005",
+	     "description":"CBN Intervention Funds - Nigeria Electricity Market Stabilization Fund (NEMSF) "
+	},
+	{
+	     "id":7,
+	     "code":"FS2006",
+	     "description":"CBN Intervention Funds - Real Sector Support Facility (RSSF) "
+	},
+	{
+	     "id":8,
+	     "code":"FS2007",
+	     "description":"CBN Intervention Funds - SME Credit Guarantee Scheme (SMECGS) "
+	},
+	{
+	     "id":9,
+	     "code":"FS2008",
+	     "description":"CBN Intervention Funds - SME Re-structuring and Refinancing Facility (SMERRF) "
+	},
+	{
+	     "id":10,
+	     "code":"FS2009",
+	     "description":"CBN Intervention Funds - Micro Small and Medium Enterprises Development Fund (MSMEDF) "
+	},
+	{
+	     "id":11,
+	     "code":"FS2010",
+	     "description":"CBN Intervention Funds - Anchor Borrowers∆ Programme (ABP) "
+	},
+	{
+	     "id":12,
+	     "code":"FS2011",
+	     "description":"CBN Intervention Funds - Nigeria Textile Intervention Fund "
+	},
+	{
+	     "id":13,
+	     "code":"FS2012",
+	     "description":"CBN Intervention Funds - Non-Oil Export Stimulation Facility (ESF)"
+	},
+	{
+	     "id":14,
+	     "code":"FS2013",
+	     "description":"CBN Intervention Funds - Youth Entrepreneurship Development Programme (YEDP) "
+	},
+	{
+	     "id":15,
+	     "code":"FS3000",
+	     "description":"Federal Govt. Intervention Funds"
+	},
+	{
+	     "id":16,
+	     "code":"FS4000",
+	     "description":"State Govt. Intervention Funds"
+	},
+	{
+	     "id":17,
+	     "code":"FS5000",
+	     "description":"NGO - Local"
+	},
+	{
+	     "id":18,
+	     "code":"FS6001",
+	     "description":"NGO - International"
+	},
+	{
+	     "id":19,
+	     "code":"FS6000",
+	     "description":"Foreign Credit Line"
+	}
+
+]

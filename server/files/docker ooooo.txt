@@ -1,0 +1,26 @@
+docker exec -it container_name bash 
+docker run -d -p 5000:80 -v C:\Users\HP\Documents\ReactCube\cubereportmanager-dev\server:/db.json clue/json-server
+http://localhost:3001/CRMS300.xml
+http://localhost:3001/CRMS300.xml
+1qazXSW%23
+$2.64
+1040 should go to other assets remove from {12250	Other Intangible Assets (Specify breakdown DBR362)}
+1695 should go to other assets remove from {10220	Current Accounts (Schedule DBR304) }                                                                                                                                                                                                                                                                                                                                                                                                                                                                    1039+1042+1043+1044+1046+1047+1048+1049+1050+1051+1052+1053+1101+1160+1694+1695+0                                                                                                                                                                                                                                                                                                                                                                                                                                   
+
+40381	BALANCE SHEET	INT PAYABLE - SUNTRUST KIDDIES SAVINGS
+
+First of all thank you very much for giving me this oppurtunity today.
+Before i applied for the role, i studied the job description carefully,
+and i am confidient i have the skills, qualities and knowledge to add 
+long term value to your team/organization. I am resourcefull, fast working, 
+have strong attention to details skills, and i am a great team player who supports
+is co workers to achieve the teams goals.
+i also have qualifications in subjects that are relevant to this industry, 
+and i have completed certification courses in Microsoft office and customer service
+nd i believe this courses will empower me to hit the ground running i this role.
+Outside work, i take good care of myself, which means my concentration and energy levels
+are always high and i also play team sports, which demostrates i believe my ability to collaborate 
+well with other people. I also have keen interest in self development and i want to build a long
+term career with your organization.
+If you hire me, i will make sure you see a great return on your investment, and i will do all i can to 
+help you maintain your position as a market leader. 

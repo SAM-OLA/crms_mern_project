@@ -1,0 +1,134 @@
+[
+
+	{
+	     "id":1,
+	     "code":"UNSEC001",
+	     "description":"All assets debenture"
+	},
+	{
+	     "id":2,
+	     "code":"UNSEC002",
+	     "description":"Assignment of rights"
+	},
+	{
+	     "id":3,
+	     "code":"UNSEC003",
+	     "description":"Authority-to-Collect"
+	},
+	{
+	     "id":4,
+	     "code":"UNSEC004",
+	     "description":"Bank Guarantee"
+	},
+	{
+	     "id":5,
+	     "code":"UNSEC005",
+	     "description":"Cash"
+	},
+	{
+	     "id":6,
+	     "code":"UNSEC006",
+	     "description":"Chattel mortgage"
+	},
+	{
+	     "id":7,
+	     "code":"UNSEC007",
+	     "description":"Corporate Guarantee"
+	},
+	{
+	     "id":8,
+	     "code":"UNSEC008",
+	     "description":"Counter Indemnity"
+	},
+	{
+	     "id":9,
+	     "code":"UNSEC009",
+	     "description":"Domiciliation of account receivables"
+	},
+	{
+	     "id":10,
+	     "code":"UNSEC010",
+	     "description":"Domiciliation of contract proceeds"
+	},
+	{
+	     "id":11,
+	     "code":"UNSEC011",
+	     "description":"Domiciliation of Salaries, Allowances and other benefits"
+	},
+	{
+	     "id":12,
+	     "code":"UNSEC012",
+	     "description":"Equitable mortgage"
+	},
+	{
+	     "id":13,
+	     "code":"UNSEC013",
+	     "description":"Insurance bond"
+	},
+	{
+	     "id":14,
+	     "code":"UNSEC014",
+	     "description":"Irrevocable Standing Payment Order (ISPO)"
+	},
+	{
+	     "id":15,
+	     "code":"UNSEC015",
+	     "description":"Legal mortgage"
+	},
+	{
+	     "id":16,
+	     "code":"UNSEC016",
+	     "description":"Letter of undertaking"
+	},
+	{
+	     "id":17,
+	     "code":"UNSEC017",
+	     "description":"Lien on shipping documents"
+	},
+	{
+	     "id":18,
+	     "code":"UNSEC018",
+	     "description":"Life Assurance Policy"
+	},
+	{
+	     "id":19,
+	     "code":"UNSEC019",
+	     "description":"Quoted Securities"
+	},
+	{
+	     "id":20,
+	     "code":"UNSEC020",
+	     "description":"Unquoted Securities"
+	},
+	{
+	     "id":21,
+	     "code":"UNSEC021",
+	     "description":"Mortgage debenture"
+	},
+	{
+	     "id":22,
+	     "code":"UNSEC022",
+	     "description":"Negative pledge"
+	},
+	{
+	     "id":23,
+	     "code":"UNSEC023",
+	     "description":"Personal Guarantee"
+	},
+	{
+	     "id":24,
+	     "code":"UNSEC024",
+	     "description":"Post dated cheque"
+	},
+	{
+	     "id":25,
+	     "code":"UNSEC025",
+	     "description":"Stock hypothecation"
+	},
+	{
+	     "id":26,
+	     "code":"UNSEC026",
+	     "description":"Trust Receipt or Warehouse Warrants"
+	}
+		
+]

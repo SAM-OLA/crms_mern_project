@@ -1,0 +1,44 @@
+[
+ 
+	{
+	     "id":1,
+	     "code":"CS001",
+	     "size":"MICRO",
+	     "employees":"< 10",
+	     "totalassets":"< N10m",
+	     "annualturnover":"< N20m"
+	},
+	{
+	     "id":2,
+	     "code":"CS002",
+	     "size":"SMALL",
+	     "employees":"10 - 49",
+	     "totalassets":"N10m - N100m",
+	     "annualturnover":"N20m - N200m"
+	},
+	{
+	     "id":3,
+	     "code":"CS003",
+	     "size":"MEDIUM",
+	     "employees":"50 - 199",
+	     "totalassets":"N101m - N500m",
+	     "annualturnover":"N201m - N1bn"
+	},
+	{
+	     "id":4,
+	     "code":"CS004",
+	     "size":"LARGE",
+	     "employees":"200 and above",
+	     "totalassets":"> N500m",
+	     "annualturnover":"> N1bn"
+	},
+	{
+	     "id":5,
+	     "code":"CS005",
+	     "size":"MULTI-NATIONAL",
+	     "employees":"200 and above",
+	     "totalassets":"> N500m",
+	     "annualturnover":"> N1bn"
+	}
+
+]

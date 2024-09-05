@@ -1,0 +1,183 @@
+[
+ 
+    {
+        "id":1,
+        "code":"INVS001",
+        "description":"Corporate Bond"
+    },
+    {
+        "id":2,
+        "code":"INVS002",
+        "description":"Federal Government Bond"
+    },
+    {
+        "id":3,
+        "code":"INVS003",
+        "description":"Shares"
+    },
+    {
+        "id":4,
+        "code":"INVS004",
+        "description":"State Government Bond"
+    },
+    {
+        "id":5,
+        "code":"INVS005",
+        "description":"Treasury Bills"
+    },
+    {
+        "id":6,
+        "code":"INVS006",
+        "description":"regular equity"
+    }
+    ,
+    {
+        "id":7,
+        "code":"INVS007",
+        "description":"Euro bonds"
+    }
+    ,
+    {
+        "id":8,
+        "code":"INVS008",
+        "description":"Unquoted equities investment"
+    }
+    ,
+    {
+        "id":9,
+        "code":"INVS009",
+        "description":"SMEIES bonds"
+    }
+    ,
+    {
+        "id":10,
+        "code":"INVS010",
+        "description":"Equities"
+    },
+    {
+        "id":11,
+        "code":"INVS011",
+        "description":"sub-national bond"
+    },
+    {
+        "id":12,
+        "code":"INVS012",
+        "description":"supernational bond"
+    },
+    {
+        "id":13,
+        "code":"INVS013",
+        "description":"Commercial Papers"
+    },
+    {
+        "id":14,
+        "code":"INVS014",
+        "description":"agency bond"
+    },
+    {
+        "id":15,
+        "code":"INVS015",
+        "description":"mutual funds"
+    },
+    {
+        "id":16,
+        "code":"INVS016",
+        "description":"Fixed income securities"
+    }
+    ,
+    {
+        "id":17,
+        "code":"INVS017",
+        "description":"CBN Registered Certificates"
+    }
+    ,
+    {
+        "id":18,
+        "code":"INVS018",
+        "description":"Other Soverign Bonds"
+    }
+    ,
+    {
+        "id":19,
+        "code":"INVS019",
+        "description":"Promissory Notes"
+    }
+    ,
+    {
+        "id":20,
+        "code":"INVS020",
+        "description":"AMCON Bonds"
+    }
+    ,
+    {
+        "id":21,
+        "code":"INVS021",
+        "description":"Bills Discounted"
+    }
+    ,
+    {
+        "id":22,
+        "code":"INVS022",
+        "description":"Certificates of Deposits"
+    }
+    ,
+    {
+        "id":23,
+        "code":"INVS023",
+        "description":"Supranational Bonds - AfDB & IFC Bonds"
+    }
+    ,
+    {
+        "id":24,
+        "code":"INVS024",
+        "description":"Fixed Deposit"
+    }
+    ,
+    {
+        "id":25,
+        "code":"INVS025",
+        "description":"Stocks"
+    }
+    ,
+    {
+        "id":26,
+        "code":"INVS026",
+        "description":"Dividends"
+    }
+    ,
+    {
+        "id":27,
+        "code":"INVS027",
+        "description":"Hybrid Instruments"
+    }
+    ,
+    {
+        "id":28,
+        "code":"INVS028",
+        "description":"Bankers’ Acceptance (BAs)"
+    }
+    ,
+    {
+        "id":29,
+        "code":"INVS029",
+        "description":"Strips"
+    }
+    ,
+    {
+        "id":30,
+        "code":"INVS030",
+        "description":"Certificates of Deposits (CDs)"
+    }
+    ,
+    {
+        "id":31,
+        "code":"INVS031",
+        "description":"Medium Term Notes (MTN)"
+    }
+    ,
+    {
+        "id":32,
+        "code":"INVS032",
+        "description":"Floating Rate Notes (FRN)"
+    }
+]

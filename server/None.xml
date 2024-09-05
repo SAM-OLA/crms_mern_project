@@ -1,0 +1,13 @@
+<CALLREPORT>
+   <HEADER>
+         <CALLREPORT_ID>CRMS300</CALLREPORT_ID>
+         <CALLREPORT_DESC>Rendition of Borrower Credit Details (Individual and Non-Individual)</CALLREPORT_DESC>
+         <INST_CODE>00100</INST_CODE>
+         <INST_NAME>SUNTRUST BANK PLC</INST_NAME>
+         <AS_AT>14-09-2023</AS_AT>
+    </HEADER>
+    <BODY>
+    </BODY>
+    <FOOTER>
+    </FOOTER>
+</CALLREPORT>

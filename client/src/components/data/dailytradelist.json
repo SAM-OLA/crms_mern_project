@@ -1,0 +1,158 @@
+[
+    {
+        "id":1,
+        "code":"DTR 001",
+        "description":"DAILY INWARD MONEY TRANSFER"
+    },
+    {
+        "id":2,
+        "code":"DTR 002",
+        "description":"DAILY OUTWARD MONEY TRANSFER"
+    },
+    {
+        "id":3,
+        "code":"DTR 003",
+        "description":"DAILY LOADING OF PREPAID CARDS"
+    },
+    {
+        "id":4,
+        "code":"DTR 004",
+        "description":"ANALYSIS OF SALES OF TRVELLERS CHEQUES FOR PTA/BTA"
+    },
+    {
+        "id":5,
+        "code":"DTR 202",
+        "description":"FOREIGN EXCHANGE FLOW STATEMENT"
+    },
+    {
+        "id":6,
+        "code":"DTR 203",
+        "description":"SUMMARY OF FOREIGN EXCHANGE POSITION REPORT"
+    }
+    ,
+    {
+        "id":7,
+        "code":"DTR 204",
+        "description":"CAPTURE IMPORT REGISTRATION"
+    }
+    ,
+    {
+        "id":8,
+        "code":"DTR 205",
+        "description":"IMPORT DUTY COLLECTED WITH FORM ‘M’"
+    }
+    ,
+    {
+        "id":9,
+        "code":"DTR 206",
+        "description":"CAPTURE SOURCES OF FUNDS"
+    }
+    ,
+    {
+        "id":10,
+        "code":"DTR 207",
+        "description":"ANALYSIS OF FOREIGN EXCHANGE UTILIZATION ON FORM 'M' (L/C VALID FOR FOREIGN EXCHANGE) SOURCED FROM CBN SALES"
+    },
+    {
+        "id":11,
+        "code":"DTR 208",
+        "description":"ANALYSIS OF FOREIGN EXCHANGE UTILIZATION ON FORM 'M' (BILLS FOR COLLECTION - VALID FOR FOREIGN EXCHANGE) SOURCED FROM CBN SALES"
+    },
+    {
+        "id":12,
+        "code":"DTR 209",
+        "description":"CONSOLIDATED FOREIGN EXCHANGE UTILISATION"
+    },
+    {
+        "id":13,
+        "code":"DTR 210",
+        "description":"ANALYSIS OF FOREIGN EXCHANGE UTILISATION CLASSIFICATION BREAKDOWN (FORM M OTHERS UNDER FINISHED GOODS"
+    },
+    {
+        "id":14,
+        "code":"DTR 211",
+        "description":"CAPTURE BREAKDOWN OF UTILIZATION (FORM FOR FOODS UNDER FINISHED GOODS)"
+    },
+    {
+        "id":15,
+        "code":"DTR 212",
+        "description":"ANALYSIS OF FOREIGN EXCHANGE UTILISATION CLASSIFICATION BREAKDOWN (OTHERS UNDER INVISIBLES"
+    },
+    {
+        "id":16,
+        "code":"DTR 213",
+        "description":"OPERATION OF DOMICILIARY AND EXTERNAL ACCOUNTS"
+    }
+    ,
+    {
+        "id":17,
+        "code":"DTR 214",
+        "description":"OPERATION OF DOMICILIARY AND EXTERNAL ACCOUNTS"
+    }
+    ,
+    {
+        "id":18,
+        "code":"DTR 215",
+        "description":"DETAILS FOR TRANSFER OF FORM"
+    }
+    ,
+    {
+        "id":19,
+        "code":"DTR 216",
+        "description":"DAILY ANALYSIS OF CUSTOMERS WHO HAVE DEFAULTED IN THE SUBMISSION OF COMPLETE SHIPPING DOCUMANTS WITHIN 90 DAYS OF PAYMENT TO THE OVERSEAS CORRESPONDENT BANK"
+    }
+    ,
+    {
+        "id":20,
+        "code":"DTR 217",
+        "description":"CUSTOMER INFORMATION"
+    },
+    {
+        "id":21,
+        "code":"DTR 301",
+        "description":"EXPORT REGISTRATION"
+    },
+    {
+        "id":22,
+        "code":"DTR 302",
+        "description":"EXPORT PROCEEDS"
+    },
+    {
+        "id":23,
+        "code":"DTR 303",
+        "description":"DAILY RETURN OF CAPITAL IMPORTATION"
+    },
+    {
+        "id":24,
+        "code":"DTR 305",
+        "description":"DETAILS OF TOTAL FOREX SALES TO END-USERS"
+    },
+    {
+        "id":25,
+        "code":"DTR 306",
+        "description":"DAILY ANALYSIS OF PRIVATE SECTOR DEBT ( LOANS)"
+    },
+    {
+        "id":26,
+        "code":"DTR 307",
+        "description":"DAILY ANALYSIS OF PRIVATE SECTOR EXTERNAL INVESTMENTS"
+    }
+    ,
+    {
+        "id":27,
+        "code":"DTR 308",
+        "description":"DAILY RETURN ON TRANSFER OF PROFIT, DIVIDEND AND CAPITAL"
+    }
+    ,
+    {
+        "id":28,
+        "code":"DTR 316",
+        "description":"RETURN ON FOREIGN EXCHANGE PURCHASED BY BANKS FROM OIL AND OIL SERVICES"
+    }
+    ,
+    {
+        "id":29,
+        "code":"DTR 319",
+        "description":"ISUANCE OF LETTERS OF CREDIT (TED/LC)"
+    }
+]

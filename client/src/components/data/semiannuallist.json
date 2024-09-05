@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "code":"SBR 1900",
+        "description":"SEMI ANNUAL RETURN ON INVESTMENT IN SHARES"
+    },
+    {
+        "id":2,
+        "code":"SBR 1910_1",
+        "description":"SEMI ANNUAL RETURN ON CORPORATE PROFILE"
+    },
+    {
+        "id":3,
+        "code":"SBR 1910_2",
+        "description":"SEMI ANNUAL RETURN ON CORPORATE PROFILE : DETAILS OF CONSULTANTS/SERVICE PROVIDERS"
+    },
+    {
+        "id":4,
+        "code":"SBR 1910_3",
+        "description":"SEMI ANNUAL RETURN ON CORPORATE PROFILE : FOREIGN SUBSIDIARIES"
+    },
+    {
+        "id":5,
+        "code":"SBR 1910_4",
+        "description":"SEMI ANNUAL RETURN ON CORPORATE PROFILE : FOREIGN BRANCHES AND STAFF SUMMARY"
+    },
+    {
+        "id":6,
+        "code":"SBR 1920",
+        "description":"SEMI ANNUAL RETURN ON BRANCH NETWORK"
+    }
+    ,
+    {
+        "id":7,
+        "code":"SBR 1930",
+        "description":"SEMI ANNUAL RETURN ON BANK'S DIRECTORS"
+    }
+    ,
+    {
+        "id":8,
+        "code":"SBR 1940",
+        "description":"SEMI ANNUAL RETURN ON SIGNIFICANT SHAREHOLDERS"
+    }
+    ,
+    {
+        "id":9,
+        "code":"SBR 1950",
+        "description":"SEMI ANNUAL RETURN ON MANAGEMENT AND TOP OFFICERS"
+    }
+    ,
+    {
+        "id":10,
+        "code":"SBR 1951",
+        "description":"SEMI ANNUAL RETURN ON PAST BANK DIRECTORSAND TOP MANAGEMENT OFFICERS"
+    }
+]

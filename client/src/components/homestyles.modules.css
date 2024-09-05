@@ -1,0 +1,116 @@
+.body {
+
+  font-size:16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: hsl(0, 0%, 100%);
+}
+.h2{
+  text-align: left;
+  font-style: normal;
+  text-decoration: underline;
+  color: blueviolet;
+}
+.h4{
+  text-align: left;
+  font-style: normal;
+  text-decoration: underline;
+  display: inline;
+  color: blueviolet;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+.lab {
+  cursor: default;
+  display: block;
+  text-align: left;
+  
+}
+input[type=text], input[type=password], input[type=date] {
+  
+  width: 500px;
+  padding: 15px;
+  margin: 5px 0 15px 0;
+  font-style: normal;
+  font-size:16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: none;
+  border-radius: 25px;
+  background: #f1f1f1;
+}
+
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+.registerbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 35%;
+  opacity: 0.9;
+  border-radius: 20px;
+}
+
+.cancelbtn {
+  background-color: #aa0404;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 15%;
+  opacity: 0.9;
+  border-radius: 30px;
+}
+.viewbtn {
+  background-color: #81aa04;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 15%;
+  opacity: 0.9;
+  border-radius: 30px;
+  font-size:14px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.smalladdbtn {
+  background-color: #0407aa;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 15%;
+  opacity: 0.9;
+  border-radius: 30px;
+  font-size:14px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/* Add a blue text color to links */
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}

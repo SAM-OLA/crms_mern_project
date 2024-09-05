@@ -1,0 +1,114 @@
+[
+
+	{
+	     "id":1,
+	     "code":"40100",
+	     "description":"AGRICULTURE"
+	},
+	{
+	     "id":2,
+	     "code":"40200",
+	     "description":"MINING AND QUARRYING"
+	},
+	{
+	     "id":3,
+	     "code":"40300",
+	     "description":"MANUFACTURING"
+	},
+	{
+	     "id":4,
+	     "code":"40500",
+	     "description":"REAL ESTATE"
+	},
+	{
+	     "id":5,
+	     "code":"40600",
+	     "description":"PUBLIC UTILITIES"
+	},
+	{
+	     "id":6,
+	     "code":"40700",
+	     "description":"GENERAL COMMERCE"
+	},
+	{
+	     "id":7,
+	     "code":"40800",
+	     "description":"TRANSPORTATION AND  STORAGE"
+	},
+	{
+	     "id":8,
+	     "code":"40900",
+	     "description":"FINANCE AND INSURANCE"
+	},
+	{
+	     "id":9,
+	     "code":"41000",
+	     "description":"GENERAL"
+	},
+	{
+	     "id":10,
+	     "code":"41200",
+	     "description":"GOVERNMENT"
+	},
+	{
+	     "id":11,
+	     "code":"41300",
+	     "description":"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES"
+	},
+	{
+	     "id":12,
+	     "code":"41400",
+	     "description":"CONSTRUCTION"
+	},
+	{
+	     "id":13,
+	     "code":"41500",
+	     "description":"INFORMATION AND COMMUNICATION"
+	},
+	{
+	     "id":14,
+	     "code":"41600",
+	     "description":"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES"
+	},
+	{
+	     "id":15,
+	     "code":"41700",
+	     "description":"ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES"
+	},
+	{
+	     "id":16,
+	     "code":"41800",
+	     "description":"EDUCATION"
+	},
+	{
+	     "id":17,
+	     "code":"41900",
+	     "description":"HUMAN HEALTH AND SOCIAL WORK ACTIVITIES"
+	},
+	{
+	     "id":18,
+	     "code":"42000",
+	     "description":"ARTS, ENTERTAINMENT AND RECREATION"
+	},
+	{
+	     "id":19,
+	     "code":"42100",
+	     "description":"ACTIVITIES OF EXTRATERRITORIAL ORGANIZATIONS AND BODIES"
+	},
+	{
+	     "id":20,
+	     "code":"42200",
+	     "description":"POWER AND ENERGY"
+	},
+	{
+	     "id":21,
+	     "code":"42300",
+	     "description":"CAPITAL MARKET"
+	},
+	{
+	     "id":22,
+	     "code":"42400",
+	     "description":"OIL AND GAS"
+	}
+    
+]

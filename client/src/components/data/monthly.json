@@ -1,0 +1,463 @@
+[
+    {
+        "id":1,
+        "code":"MBR 300",
+        "description":"MONTHLY STATEMENT OF FINANCIAL POSITION"
+    },
+    {
+        "id":2,
+        "code":"MBR 302",
+        "description":"SCHEDULE OF TOTAL CASH"
+    },
+    {
+        "id":3,
+        "code":"MBR 304",
+        "description":"SCHEDULE OF CURRENT ACCOUNT BALANCES WITH OTHER BANKS"
+    },
+    {
+        "id":4,
+        "code":"MBR 306",
+        "description":"SCHEDULE OF SECURED MONEY AT CALL WITH OTHER BANKS"
+    },
+    {
+        "id":5,
+        "code":"MBR 308",
+        "description":"SCHEDULE OF UNSECURED MONEY AT CALL WITH OTHER BANKS"
+    },
+    {
+        "id":6,
+        "code":"MBR 310",
+        "description":"SCHEDULE OF SECURED PLACEMENTS WITH OTHER BANKS"
+    }
+    ,
+    {
+        "id":7,
+        "code":"MBR 312",
+        "description":"SCHEDULE OF UNSECURED PLACEMENTS WITH OTHER BANKS"
+    }
+    ,
+    {
+        "id":8,
+        "code":"MBR 314",
+        "description":"SCHEDULE OF SECURED PLACEMENTS WITH DISCOUNT HOUSE"
+    }
+    ,
+    {
+        "id":9,
+        "code":"MBR 316",
+        "description":"SCHEDULE OF UNSECURED PLACEMENTS WITH DISCOUNT HOUSE"
+    }
+    ,
+    {
+        "id":10,
+        "code":"MBR 318_1",
+        "description":"DERIVATIVES HELD FOR TRADING (by types)"
+    },
+    {
+        "id":11,
+        "code":"MBR 318_2",
+        "description":"DERIVATIVES USED AS CASH FLOW HEDGES (by types)"
+    },
+    {
+        "id":12,
+        "code":"MBR 318_3",
+        "description":"DERIVATIVES USED AS FAIR VALUE HEDGE(by types)"
+    },
+    {
+        "id":13,
+        "code":"MBR 320_1",
+        "description":"FAIR VALUE THROUGH PROFIT OR LOSS"
+    },
+    {
+        "id":14,
+        "code":"MBR 320_2",
+        "description":"AVAILABLE FOR SALE"
+    },
+    {
+        "id":15,
+        "code":"MBR 320_3",
+        "description":"HELD TO MATURITY"
+    },
+    {
+        "id":16,
+        "code":"MBR 322_1",
+        "description":"FAIR VALUE THROUGH PROFIT OR LOSS"
+    }
+    ,
+    {
+        "id":17,
+        "code":"MBR 322_2",
+        "description":"AVAILABLE FOR SALE"
+    }
+    ,
+    {
+        "id":18,
+        "code":"MBR 322_3",
+        "description":"HELD TO MATURITY"
+    }
+    ,
+    {
+        "id":19,
+        "code":"MBR 324_1",
+        "description":"FAIR VALUE THROUGH PROFIT OR LOSS"
+    }
+    ,
+    {
+        "id":20,
+        "code":"MBR 324_2",
+        "description":"AVAILABLE FOR SALE"
+    },
+    {
+        "id":21,
+        "code":"MBR 324_3",
+        "description":"HELD TO MATURITY"
+    },
+    {
+        "id":22,
+        "code":"MBR 326_1",
+        "description":"FAIR VALUE THROUGH PROFIT OR LOSS"
+    },
+    {
+        "id":23,
+        "code":"MBR 326_2",
+        "description":"AVAILABLE FOR SALE"
+    },
+    {
+        "id":24,
+        "code":"MBR 326_3",
+        "description":"HELD TO MATURITY"
+    },
+    {
+        "id":25,
+        "code":"MBR 328_1",
+        "description":"FAIR VALUE THROUGH PROFIT OR LOSS"
+    },
+    {
+        "id":26,
+        "code":"MBR 328_2",
+        "description":"AVAILABLE FOR SALE"
+    }
+    ,
+    {
+        "id":27,
+        "code":"MBR 328_3",
+        "description":"HELD TO MATURITY"
+    }
+    ,
+    {
+        "id":28,
+        "code":"MBR 330_1",
+        "description":"FAIR VALUE THROUGH PROFIT OR LOSS"
+    }
+    ,
+    {
+        "id":29,
+        "code":"MBR 330_2",
+        "description":"AVAILABLE FOR SALE"
+    }
+    ,
+    {
+        "id":30,
+        "code":"MBR 330_3",
+        "description":"HELD TO MATURITY"
+    },
+    {
+        "id":31,
+        "code":"MBR 332_1",
+        "description":"FAIR VALUE THROUGH PROFIT OR LOSS"
+    },
+    {
+        "id":32,
+        "code":"MBR 332_2",
+        "description":"AVAILABLE FOR SALE"
+    },
+    {
+        "id":33,
+        "code":"MBR 332_3",
+        "description":"HELD TO MATURITY"
+    },
+    {
+        "id":34,
+        "code":"MBR 334_1",
+        "description":"FAIR VALUE THROUGH PROFIT OR LOSS"
+    },
+    {
+        "id":35,
+        "code":"MBR 334_2",
+        "description":"AVAILABLE FOR SALE"
+    },
+    {
+        "id":36,
+        "code":"MBR 334_3",
+        "description":"HELD TO MATURITY"
+    }
+    ,
+    {
+        "id":37,
+        "code":"MBR 336_1",
+        "description":"FAIR VALUE THROUGH PROFIT OR LOSS"
+    }
+    ,
+    {
+        "id":38,
+        "code":"MBR 336_2",
+        "description":"AVAILABLE FOR SALE"
+    }
+    ,
+    {
+        "id":39,
+        "code":"MBR 336_3",
+        "description":"HELD TO MATURITY"
+    }
+    ,
+    {
+        "id":40,
+        "code":"MBR 338",
+        "description":"SCHEDULE OF CERTIFICATES OF DEPOSITS HELD"
+    },
+    {
+        "id":41,
+        "code":"MBR 340_1",
+        "description":"FAIR VALUE THROUGH PROFIT OR LOSS"
+    },
+    {
+        "id":42,
+        "code":"MBR 340_2",
+        "description":"AVAILABLE FOR SALE"
+    },
+    {
+        "id":43,
+        "code":"MBR 340_3",
+        "description":"HELD TO MATURITY"
+    },
+    {
+        "id":44,
+        "code":"MBR 342",
+        "description":"SCHEDULE OF LOANS AND RECEIVABLES - OTHER BANKS IN NIGERIA"
+    },
+    {
+        "id":45,
+        "code":"MBR 344",
+        "description":"SCHEDULE OF LOANS AND RECEIVABLES - SUBSIDIARY COMPANIES IN NIGERIA"
+    },
+    {
+        "id":46,
+        "code":"MBR 346",
+        "description":"SCHEDULE OF LOANS AND RECEIVABLES - COMPANIES IN OUTSIDE NIGERIA"
+    }
+    ,
+    {
+        "id":47,
+        "code":"MBR 348",
+        "description":"SCHEDULE OF LOANS AND RECEIVABLES - ASSOCIATE/AFFILIATE COMPANIES IN NIGERIA"
+    }
+    ,
+    {
+        "id":48,
+        "code":"MBR 352",
+        "description":"SCHEDULE OF LOANS AND RECEIVABLES - OTHER ENTITIES OUTSIDE NIGERIA"
+    }
+    ,
+    {
+        "id":49,
+        "code":"MBR 356",
+        "description":"SCHEDULE OF OTHER INVESTMENTS - QUOTED/UNQUOTED"
+    }
+    ,
+    {
+        "id":50,
+        "code":"MBR 358",
+        "description":"SCHEDULE OF INVESTMENTS IN SUBSIDIARIES/ASSOCIATES"
+    },
+    {
+        "id":51,
+        "code":"MBR 360",
+        "description":"SCHEDULE OF OTHER TANGIBLE ASSETS"
+    },
+    {
+        "id":52,
+        "code":"MBR 360_1",
+        "description":"BREAKDOWN OF OTHER TANGIBLE ASSETS-MISCELLANEOUS DOMESTIC"
+    },
+    {
+        "id":53,
+        "code":"MBR 360_2",
+        "description":"BREAKDOWN OF OTHER TANGIBLE ASSETS- PREPAYMENTS"
+    },
+    {
+        "id":54,
+        "code":"MBR 360_3",
+        "description":"BREAKDOWN OF OTHER TANGIBLE ASSETS-MISCELLANEOUS FOREIGN"
+    },
+    {
+        "id":55,
+        "code":"MBR 360_4",
+        "description":"BREAKDOWN OF OTHER TANGIBLE ASSETS- SUSPENSE ACCOUNT"
+    },
+    {
+        "id":56,
+        "code":"MBR 362",
+        "description":"SCHEDULE OF OTHER INTANGIBLE ASSETS"
+    }
+    ,
+    {
+        "id":57,
+        "code":"MBR 364",
+        "description":"SCHEDULE OF NON-CURRENT ASSET HELD FOR SALES/DISPOSAL GROUP"
+    }
+    ,
+    {
+        "id":58,
+        "code":"MBR 366",
+        "description":"SCHEDULE OF PROPERTY PLANT AND EQUIPMENT"
+    }
+    ,
+    {
+        "id":59,
+        "code":"MBR 368",
+        "description":"SCHEDULE OF CONTINGENT ASSETS- DIRECT CREDIT SUBSTITUTE"
+    }
+    ,
+    {
+        "id":60,
+        "code":"MBR 370",
+        "description":"SCHEDULE OF CONTINGENT ASSETS- CERTAIN TRANSACTION RELATED CONTINGENT"
+    },
+    {
+        "id":61,
+        "code":"MBR 372",
+        "description":"SCHEDULE OF CONTINGENT ASSETS- SHORT TERM SELF LIQUIDATING TRADE RELATED CONTINGENT"
+    },
+    {
+        "id":62,
+        "code":"MBR 374",
+        "description":"SCHEDULE OF CONTINGENT ASSETS- FORWARD ASSET PURCHASE, FORWARD DEPOSITSS AND PARTLY PAID SHARES AND SECURITIES, WICH REPRESENT COMMITMENTS WITH CERTAIN DRAW DOWN"
+    },
+    {
+        "id":63,
+        "code":"MBR 376",
+        "description":"SCHEDULE OF CONTINGENT ASSETS- NOTE ISSUANCE FACILITIES AND REVOLVING UNDERWRITING FACILITIES"
+    },
+    {
+        "id":64,
+        "code":"MBR 378",
+        "description":"SCHEDULE OF CONTINGENT ASSETS- OTHER COMMITMENTS (Eg. STANDBY FACILITIES AND CREDIT LINES) WITH AN ORIGINAL MATURITY OF OVER ONE YEAR"
+    },
+    {
+        "id":65,
+        "code":"MBR 380",
+        "description":"SCHEDULE OF CONTINGENT ASSETS-  SIMILARY COMMITMENTS WITH AN ORIGINAL MATURITY OF UP TO ONE YEAR, OR WHICH CAN BE UNCONDITIONALLY CANCELLED AT ANY TIME"
+    },
+    {
+        "id":66,
+        "code":"MBR 382",
+        "description":"SCHEDULE OF MONEY AT CALL FROM OTHER BANKS"
+    }
+    ,
+    {
+        "id":67,
+        "code":"MBR 384",
+        "description":"SCHEDULE OF UNSECURED INTERBANK TAKINGS"
+    }
+    ,
+    {
+        "id":68,
+        "code":"MBR 386",
+        "description":"SCHEDULE OF SECURED INTERBANK TAKINGS"
+    }
+    ,
+    {
+        "id":69,
+        "code":"MBR 387",
+        "description":"SCHEDULE OF SECURED TAKINGS FROM DISCOUNT HOUSE"
+    }
+    ,
+    {
+        "id":70,
+        "code":"MBR 388",
+        "description":"SCHEDULE OF UNSECURED TAKINGS FROM DISCOUNT HOUSE"
+    },
+    {
+        "id":71,
+        "code":"MBR 389",
+        "description":"SCHEDULE OF CURRENT ACCOUNT BALANCE DUE TO OTHER BANKS"
+    },
+    {
+        "id":72,
+        "code":"MBR 390",
+        "description":"SCHEDULE OF CERTIFICATES OF DEPOSITS -BANK SOURCES"
+    },
+    {
+        "id":73,
+        "code":"MBR 392_1",
+        "description":"DERIVATIVES HELD FOR TRADING"
+    },
+    {
+        "id":74,
+        "code":"MBR 392_2",
+        "description":"DERIVATIVES USED AS CASH FLOW HEDGES"
+    },
+    {
+        "id":75,
+        "code":"MBR 392_3",
+        "description":"DERIVATIVES USED AS FAIR VALUE HEDGE"
+    },
+    {
+        "id":76,
+        "code":"MBR 394",
+        "description":"SCHEDULE OF OTHER LIABILITIES"
+    }
+    ,
+    {
+        "id":77,
+        "code":"MBR 394_1",
+        "description":"BREAKDOWN OF OTHER LIABILITIES  - SUSPENSE ACCOUNT"
+    }
+    ,
+    {
+        "id":78,
+        "code":"MBR 394_2",
+        "description":"BREAKDOWN OF OTHER LIABILITIES  - BANKERS PAYMENT"
+    }
+    ,
+    {
+        "id":79,
+        "code":"MBR 394_3",
+        "description":"BREAKDOWN OF OTHER LIABILITIES  - MISCELLANEOUS DOMESTIC"
+    }
+    ,
+    {
+        "id":80,
+        "code":"MBR 394_4",
+        "description":"BREAKDOWN OF OTHER LIABILITIES  - MISCELLANEOUS FOREIGN"
+    }
+    ,
+    {
+        "id":81,
+        "code":"MBR 394_5",
+        "description":"BREAKDOWN OF OTHER LIABILITIES  - ACCOUNTS PAYABLE"
+    }
+    ,
+    {
+        "id":82,
+        "code":"MBR 396",
+        "description":"SCHEDULE OF LOANS AND ADVANCES FROM OTHER BANKS IN NIGERIA"
+    }
+    ,
+    {
+        "id":83,
+        "code":"MBR 400",
+        "description":"SCHEDULE OF BANKERS ACCEPTANCES FROM OTHER BANKS"
+    }
+    ,
+    {
+        "id":84,
+        "code":"MBR 404",
+        "description":"SCHEDULE OF OTHER CREDITORS"
+    },
+    {
+        "id":85,
+        "code":"MBR 500",
+        "description":"SCHEDULE OF PLEDGED SECURITIES"
+    }
+]

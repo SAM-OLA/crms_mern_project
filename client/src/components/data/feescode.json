@@ -1,0 +1,83 @@
+[
+ 
+	{
+	     "id":1,
+	     "code":"F0001",
+	     "description":"CREDIT REFERENCE REPORTS"
+	},
+	{
+	     "id":2,
+	     "code":"F0002",
+	     "description":"FACILITY RESTRUCTURING FEE"
+	},
+	{
+	     "id":3,
+	     "code":"F0003",
+	     "description":"MANAGEMENT FEE"
+	},
+	{
+	     "id":4,
+	     "code":"F0004",
+	     "description":"RENEWAL FEE"
+	},
+	{
+	     "id":5,
+	     "code":"F0005",
+	     "description":"PROCESSING FEE FOR CONSENT FOR SHARE SECURITY"
+	},
+	{
+	     "id":6,
+	     "code":"F0006",
+	     "description":"PENAL RATE FOR LATE REPAYMENT OF LOANS/ADVANCES"
+	},
+	{
+	     "id":7,
+	     "code":"F0007",
+	     "description":"COMMITMENT FEE"
+	},
+	{
+	     "id":8,
+	     "code":"F0008",
+	     "description":"ADVISORY/CONSULTANCY FEE"
+	},
+	{
+	     "id":9,
+	     "code":"F0009",
+	     "description":"WAREHOUSING FACILITY"
+	},
+	{
+	     "id":10,
+	     "code":"FCL01",
+	     "description":"AGENCY FEE"
+	},
+	{
+	     "id":11,
+	     "code":"FCL02",
+	     "description":"MANAGEMENT FEE"
+	},
+	{
+	     "id":12,
+	     "code":"FCL03",
+	     "description":"COMMITMENT/NON DRAWING FEE"
+	},
+	{
+	     "id":13,
+	     "code":"FCL04",
+	     "description":"APPRAISAL/RENEWAL FEE"
+	},
+	{
+	     "id":14,
+	     "code":"FCL05",
+	     "description":"COMMISSION CHARGES FOR UNDERWRITING SERVICES"
+	},
+	{
+	     "id":15,
+	     "code":"FCL06",
+	     "description":"PARTICIPATION FEE"
+	},
+	{
+	     "id":16,
+	     "code":"FCL07",
+	     "description":"NON-DRAWING FEES"
+	}	
+]

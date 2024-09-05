@@ -1,0 +1,138 @@
+[
+ 
+	{
+	     "id":1,
+	     "code":"100",
+	     "description":"Monthly repayment of loan principal and/or loan interest made according to arrangements."
+	},
+	{
+	     "id":2,
+	     "code":"101",
+	     "description":"More than one and up to three monthly repayments of loan principal and/or loan interest remain unpaid."
+	},
+	{
+	     "id":3,
+	     "code":"102",
+	     "description":"More than three and up to six monthly repayments of loan principal and/or loan interest remain unpaid."
+	},
+	{
+	     "id":4,
+	     "code":"103",
+	     "description":"More than six and up to twelve monthly repayments of loan principal and/or loan interest remain unpaid."
+	},
+	{
+	     "id":5,
+	     "code":"104",
+	     "description":"More than twelve monthly repayments of loan principal and/or loan interest remain unpaid."
+	},
+	{
+	     "id":6,
+	     "code":"105",
+	     "description":"Monthly repayment of loan principal or loan int. ceased on accnt of litigatn 4 reasons other than default in repayment."
+	},
+	{
+	     "id":7,
+	     "code":"200",
+	     "description":"Quarterly repayment of loan principal and/or loan interest made according to arrangement."
+	},
+	{
+	     "id":8,
+	     "code":"201",
+	     "description":"One quarterly repayment of loan principal and/or loan interest remains unpaid."
+	},
+	{
+	     "id":9,
+	     "code":"202",
+	     "description":"Two quarterly repayment of loan principal and/or loan interest remains unpaid."
+	},
+	{
+	     "id":10,
+	     "code":"203",
+	     "description":"Three or more quarterly repayment of loan principal and/or loan interest remains unpaid."
+	},
+	{
+	     "id":11,
+	     "code":"204",
+	     "description":"Quarterly repayment of loan ceased on account of litigation for reasons other than default in repayment."
+	},
+	{
+	     "id":12,
+	     "code":"300",
+	     "description":"Yearly repayment of loan principal and/or loan interest made according to arrangements."
+	},
+	{
+	     "id":13,
+	     "code":"301",
+	     "description":"One yearly repayment of loan principal and/or loan interest remain unpaid."
+	},
+	{
+	     "id":14,
+	     "code":"302",
+	     "description":"Two or more yearly repayment of loan principal and/or loan interest remain unpaid."
+	},
+	{
+	     "id":15,
+	     "code":"400",
+	     "description":"Other periodical repayments of loan principal and/or loan interest made according to arrangements"
+	},
+	{
+	     "id":16,
+	     "code":"401",
+	     "description":"More than one and up to three other periodical repayments of loan principal and/or loan interest remain unpaid."
+	},
+	{
+	     "id":17,
+	     "code":"402",
+	     "description":"More than three and up to six other periodical repayments of loan principal and/or loan interest remain unpaid"
+	},
+	{
+	     "id":18,
+	     "code":"403",
+	     "description":"More than six and up to twelve other periodical repayments of loan principal and/or loan interest remain unpaid"
+	},
+	{
+	     "id":19,
+	     "code":"404",
+	     "description":"More than twelve other periodical repayments of loan principal and/or loan interest remain unpaid."
+	},
+	{
+	     "id":20,
+	     "code":"405",
+	     "description":"Loan expired but remains unpaid"
+	},
+	{
+	     "id":21,
+	     "code":"406",
+	     "description":"Other periodical repayments of loan prinp or loan int. ceased on accnt of litigatn 4 reasons other than default in repayment."    
+	},
+	{
+	     "id":22,
+	     "code":"500",
+	     "description":"Any other loan principal and/or loan interest repayment status not repaid as agreed."
+	},
+	{
+	     "id":23,
+	     "code":"600",
+	     "description":"Litigation pending for reasons of default in repayment"},
+	{
+	     "id":24,
+	     "code":"601",
+	     "description":"Judgement debtor"
+	},
+	{
+	     "id":25,
+	     "code":"700",
+	     "description":"Below CRMS Bench-Mark"
+	},
+	{
+	     "id":26,
+	     "code":"800",
+	     "description":"New Credits"
+	},
+	{
+	     "id":27,
+	     "code":"810",
+	     "description":"Write-Off"
+	}
+    
+]

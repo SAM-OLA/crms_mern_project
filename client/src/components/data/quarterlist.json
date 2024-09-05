@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "code":"QBR 1810",
+        "description":"FEM INTEREST REPATRIATION AND DISTRIBUTION"
+    },
+    {
+        "id":2,
+        "code":"QBR 1820",
+        "description":"SCHEDULE OF INTEREST DISTRIBUTION TO CUSTOMERS"
+    },
+    {
+        "id":3,
+        "code":"QBR 1830",
+        "description":"FX HOLDING BY AUTHORISED DEALERS"
+    },
+    {
+        "id":4,
+        "code":"QBR 1831",
+        "description":"FX HOLDING RECONCILIATION STATEMENT"
+    },
+    {
+        "id":5,
+        "code":"QRL 1310",
+        "description":"SCHEDULE OF PHYSICAL ASSETS"
+    },
+    {
+        "id":6,
+        "code":"QRL 1320",
+        "description":"QUARTERY SCHEDULE OF CREDITS"
+    }
+    ,
+    {
+        "id":7,
+        "code":"QRL 1330",
+        "description":"QUARTERLY SCHEDULE OF DEPOSIT LIABILITIES"
+    }
+    ,
+    {
+        "id":8,
+        "code":"QRL 1340",
+        "description":"QUARTERLY RETURNS ON SAFE CUSTODY ITEMS"
+    }
+    ,
+    {
+        "id":9,
+        "code":"QRL 1350",
+        "description":"RETURNS ON UNUTILIZED DOCUMENTARY LETTER OF CREDIT"
+    }
+    ,
+    {
+        "id":10,
+        "code":"QRL 1360",
+        "description":"QUARTERLY RETURN ON UNCLEARED EFFECTS"
+    },
+    {
+        "id":11,
+        "code":"QRL 1370",
+        "description":"BANK QUARTERLY RETURNS ON LITIGATIONS"
+    },
+    {
+        "id":12,
+        "code":"QRL 1380",
+        "description":"LITIGATION: JUDGMENT DEBTS"
+    },
+    {
+        "id":13,
+        "code":"QRL 1390",
+        "description":"CASES (NOT FILED IN COURT)"
+    },
+    {
+        "id":14,
+        "code":"QRL 1400",
+        "description":"SCHEDULE OF FOREIGN BALANCES HELD"
+    },
+    {
+        "id":15,
+        "code":"QRR 1300",
+        "description":"SCHEDULE OF COLLATERALS"
+    },
+    {
+        "id":16,
+        "code":"QRR 1400",
+        "description":"SCHEDULE OF FOREIGN BALANCES HELD"
+    }
+    ,
+    {
+        "id":17,
+        "code":"QRR 1410",
+        "description":"SCHEDULE OF DIVIDEND PAYABLE"
+    }
+    ,
+    {
+        "id":18,
+        "code":"QRR 1420",
+        "description":"DEPOSIT FOR SHARES"
+    }
+    
+]

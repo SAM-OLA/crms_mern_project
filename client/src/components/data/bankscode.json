@@ -1,0 +1,164 @@
+[
+ 
+	{
+	     "id":1,
+	     "code":"00044",
+	     "description":"Access Bank Plc"
+	},
+	{
+	     "id":2,
+	     "code":"001",
+	     "description":"Afex Bank Plc"
+	},
+	{
+	     "id":3,
+	     "code":"00014",
+	     "description":"Afribank Nigeria Plc"
+	},
+	{
+	     "id":4,
+	     "code":"00063",
+	     "description":"Diamond Bank Plc"
+	},
+	{
+	     "id":5,
+	     "code":"00050",
+	     "description":"Ecobank Nigeria Plc"
+	},
+	{
+	     "id":6,
+	     "code":"00084",
+	     "description":"Enterprise Bank Plc"
+	},
+	{
+	     "id":7,
+	     "code":"00040",
+	     "description":"Equitorial Trust Bank"
+	},
+	{
+	     "id":8,
+	     "code":"00401",
+	     "description":"Federal Mortgage Bank of Nigeria"
+	},
+	{
+	     "id":9,
+	     "code":"00070",
+	     "description":"Fidelity Bank Plc"
+	},
+	{
+	     "id":10,
+	     "code":"00011",
+	     "description":"First Bank Of Nigeria Plc"
+	},
+	{
+	     "id":11,
+	     "code":"00214",
+	     "description":"First City Monument Bank Plc"
+	},
+	{
+	     "id":12,
+	     "code":"00047",
+	     "description":"First Inland Bank Plc"
+	},
+	{
+	     "id":13,
+	     "code":"00501",
+	     "description":"FSDH MERCHANK BANK LTD"
+	},
+	{
+	     "id":14,
+	     "code":"00058",
+	     "description":"Guaranty Trust Bank Plc"
+	},
+	{
+	     "id":15,
+	     "code":"00030",
+	     "description":"Heritage Banking Company"
+	},
+	{
+	     "id":16,
+	     "code":"00221",
+	     "description":"Ibtc Chartered Bank Plc"
+	},
+	{
+	     "id":17,
+	     "code":"00069",
+	     "description":"Intercontinental Bank Plc"
+	},
+	{
+	     "id":18,
+	     "code":"00082",
+	     "description":"Keystone Bank Plc"
+	},
+	{
+	     "id":19,
+	     "code":"00023",
+	     "description":"Nigeria International Bank Limited"
+	},
+	{
+	     "id":20,
+	     "code":"00056",
+	     "description":"Oceanic Bank International Plc"
+	},
+	{
+	     "id":21,
+	     "code":"00101",
+	     "description":"Providus Bank Plc"
+	},
+	{
+	     "id":22,
+	     "code":"00076",
+	     "description":"Skye Bank Plc"
+	},
+	{
+	     "id":23,
+	     "code":"002",
+	     "description":"Societe General Bank Plc"
+	},
+	{
+	     "id":24,
+	     "code":"00216",
+	     "description":"Stanbic Bank Nigeria Limited"
+	},
+	{
+	     "id":25,
+	     "code":"00068",
+	     "description":"Standard Chartered Bank Nigeria Limited"
+	},
+	{
+	     "id":26,
+	     "code":"00232",
+	     "description":"Sterling Bank Plc"
+	},
+	{
+	     "id":27,
+	     "code":"00100",
+	     "description":"Suntrust Bank Plc"
+	},
+	{
+	     "id":28,
+	     "code":"00032",
+	     "description":"Union Bank Of Nigeria"
+	},
+	{
+	     "id":29,
+	     "code":"00033",
+	     "description":"United Bank For Africa Plc"
+	},
+	{
+	     "id":30,
+	     "code":"00046",
+	     "description":"Unity Bank Plc"
+	},
+	{
+	     "id":31,
+	     "code":"00035",
+	     "description":"Wema Bank Plc"
+	},
+	{
+	     "id":32,
+	     "code":"00057",
+	     "description":"Zenith Bank Plc"
+	}
+	
+]

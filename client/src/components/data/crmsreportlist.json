@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "code":"CRMS 100",
+        "description":"Submissions for Federal Govt, State Govts, Local Govts and FCT"
+    },
+    {
+        "id":2,
+        "code":"CRMS 200",
+        "description":"Submissions for MDAs of Federal Govt, State Govts, Local Govts and FCT"
+    },
+    {
+        "id":3,
+        "code":"CRMS 300",
+        "description":"Rendition of Borrower Credit Details (Individual and Non-Individual)"
+    },
+    {
+        "id":4,
+        "code":"CRMS 301",
+        "description":"Rendition of Investment Security Details"
+    },
+    {
+        "id":5,
+        "code":"CRMS 400A",
+        "description":"Rendition of Rolled-Over Facility (Effective Date (not earlier than maturity date of exisitng facility), Tenor and Expiry Date changes only)"
+    },
+    {
+        "id":6,
+        "code":"CRMS 400B",
+        "description":"Restructuring of existing facility"
+    }
+    ,
+    {
+        "id":7,
+        "code":"CRMS 400C",
+        "description":"Update of Outstanding Balance and Liquidation of Existing Facility"
+    }
+    ,
+    {
+        "id":8,
+        "code":"CRMS 400D",
+        "description":"Update of Month End Balances"
+    }
+    ,
+    {
+        "id":9,
+        "code":"CRMS 401",
+        "description":"Update of Investment Securities"
+    }
+    ,
+    {
+        "id":10,
+        "code":"CRMS 500",
+        "description":"Rendition of Dud Cheques"
+    },
+    {
+        "id":11,
+        "code":"CRMS 600",
+        "description":"Register Syndication Information"
+    },
+    {
+        "id":12,
+        "code":"CRMS 700",
+        "description":"Update of Migrated Records"
+    },
+    {
+        "id":13,
+        "code":"CRMS 700B",
+        "description":"Update of Migrated Records (Federal Govt, State Govts, Local Govts and FCT)"
+    },
+    {
+        "id":14,
+        "code":"NUBAN",
+        "description":"Generate NUBAN and SORT CODE"
+    }
+]

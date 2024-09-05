@@ -1,0 +1,100 @@
+[
+ 
+    {
+        "id":1,
+        "code":"40030",
+        "description":"Personal Loan"
+    },
+    {
+        "id":2,
+        "code":"40031",
+        "description":"Cash backed & asset backed Loans"
+    },
+    {
+        "id":3,
+        "code":"40032",
+        "description":"Advance Payment Guarantee/Bid Bond/Performance Bond/Bank Gttee"
+    },
+    {
+        "id":4,
+        "code":"40033",
+        "description":"Cheque Discounting/Drawing Against Uncleared Cheques"
+    },
+    {
+        "id":5,
+        "code":"40034",
+        "description":"Credit Card"
+    },
+    {
+        "id":6,
+        "code":"40035",
+        "description":"Export Finance"
+    }
+    ,
+    {
+        "id":7,
+        "code":"40036",
+        "description":"Import Finance Facility (IFF)"
+    }
+    ,
+    {
+        "id":8,
+        "code":"40037",
+        "description":"Indemnity"
+    }
+    ,
+    {
+        "id":9,
+        "code":"40038",
+        "description":"Invoice Discounting/LPO Finance"
+    }
+    ,
+    {
+        "id":10,
+        "code":"40039",
+        "description":"Mortgage Loan"
+    },
+    {
+        "id":11,
+        "code":"40040",
+        "description":"Leases (Operating, Finance, Wet, Equipment etc etc)"
+    },
+    {
+        "id":12,
+        "code":"40041",
+        "description":"Overdraft & Working Capital"
+    },
+    {
+        "id":13,
+        "code":"40042",
+        "description":"Project/Contract Finance"
+    },
+    {
+        "id":14,
+        "code":"40043",
+        "description":"Share Purchase Loan"
+    },
+    {
+        "id":15,
+        "code":"40044",
+        "description":"Term Loan"
+    },
+    {
+        "id":16,
+        "code":"40045",
+        "description":"Asset/Stock Financing"
+    }
+    ,
+    {
+        "id":17,
+        "code":"40046",
+        "description":"Foreign Currency Loan"
+    }
+    ,
+    {
+        "id":18,
+        "code":"40047",
+        "description":"Bankers Acceptance/Commercial Paper (NOT FOR SYNDICATION)"
+    }
+    
+]

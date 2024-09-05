@@ -1,0 +1,158 @@
+[
+    {
+        "id":1,
+        "code":"MTR 001",
+        "description":"MONTHLY INWARD MONEY TRANSFER"
+    },
+    {
+        "id":2,
+        "code":"MTR 002",
+        "description":"MONTHLY OUTWARD MONEY TRANSFER"
+    },
+    {
+        "id":3,
+        "code":"MTR 003",
+        "description":"MONTHLY LOADING OF PREPAID CARDS"
+    },
+    {
+        "id":4,
+        "code":"MTR 004",
+        "description":"ANALYSIS OF SALES OF TRVELLERS CHEQUES FOR PTA/BTA"
+    },
+    {
+        "id":5,
+        "code":"MTR 202",
+        "description":"FOREIGN EXCHANGE FLOW STATEMENT"
+    },
+    {
+        "id":6,
+        "code":"MTR 203",
+        "description":"SUMMARY OF FOREIGN EXCHANGE POSITION REPORT"
+    }
+    ,
+    {
+        "id":7,
+        "code":"MTR 204",
+        "description":"CAPTURE IMPORT REGISTRATION"
+    }
+    ,
+    {
+        "id":8,
+        "code":"MTR 205",
+        "description":"IMPORT DUTY COLLECTED WITH FORM ‘M’"
+    }
+    ,
+    {
+        "id":9,
+        "code":"MTR 206",
+        "description":"CAPTURE SOURCES OF FUNDS"
+    }
+    ,
+    {
+        "id":10,
+        "code":"MTR 207",
+        "description":"ANALYSIS OF FOREIGN EXCHANGE UTILIZATION ON FORM 'M' (L/C VALID FOR FOREIGN EXCHANGE) SOURCED FROM CBN SALES"
+    },
+    {
+        "id":11,
+        "code":"MTR 208",
+        "description":"ANALYSIS OF FOREIGN EXCHANGE UTILIZATION ON FORM 'M' (BILLS FOR COLLECTION - VALID FOR FOREIGN EXCHANGE) SOURCED FROM CBN SALES"
+    },
+    {
+        "id":12,
+        "code":"MTR 209",
+        "description":"CONSOLIDATED FOREIGN EXCHANGE UTILISATION"
+    },
+    {
+        "id":13,
+        "code":"MTR 210",
+        "description":"ANALYSIS OF FOREIGN EXCHANGE UTILISATION CLASSIFICATION BREAKDOWN (FORM M OTHERS UNDER FINISHED GOODS"
+    },
+    {
+        "id":14,
+        "code":"MTR 211",
+        "description":"CAPTURE BREAKDOWN OF UTILIZATION (FORM FOR FOODS UNDER FINISHED GOODS)"
+    },
+    {
+        "id":15,
+        "code":"MTR 212",
+        "description":"ANALYSIS OF FOREIGN EXCHANGE UTILISATION CLASSIFICATION BREAKDOWN (OTHERS UNDER INVISIBLES"
+    },
+    {
+        "id":16,
+        "code":"MTR 213",
+        "description":"OPERATION OF DOMICILIARY AND EXTERNAL ACCOUNTS"
+    }
+    ,
+    {
+        "id":17,
+        "code":"MTR 214",
+        "description":"OPERATION OF DOMICILIARY AND EXTERNAL ACCOUNTS"
+    }
+    ,
+    {
+        "id":18,
+        "code":"MTR 215",
+        "description":"DETAILS FOR TRANSFER OF FORM"
+    }
+    ,
+    {
+        "id":19,
+        "code":"MTR 216",
+        "description":"MONTHLY ANALYSIS OF CUSTOMERS WHO HAVE DEFAULTED IN THE SUBMISSION OF COMPLETE SHIPPING DOCUMANTS WITHIN 90 DAYS OF PAYMENT TO THE OVERSEAS CORRESPONDENT BANK"
+    }
+    ,
+    {
+        "id":20,
+        "code":"MTR 217",
+        "description":"CUSTOMER INFORMATION"
+    },
+    {
+        "id":21,
+        "code":"MTR 301",
+        "description":"EXPORT REGISTRATION"
+    },
+    {
+        "id":22,
+        "code":"MTR 302",
+        "description":"EXPORT PROCEEDS"
+    },
+    {
+        "id":23,
+        "code":"MTR 303",
+        "description":"MONTHLY RETURN OF CAPITAL IMPORTATION"
+    },
+    {
+        "id":24,
+        "code":"MTR 305",
+        "description":"DETAILS OF TOTAL FOREX SALES TO END-USERS"
+    },
+    {
+        "id":25,
+        "code":"MTR 306",
+        "description":"MONTHLY ANALYSIS OF PRIVATE SECTOR DEBT ( LOANS)"
+    },
+    {
+        "id":26,
+        "code":"MTR 307",
+        "description":"MONTHLY ANALYSIS OF PRIVATE SECTOR EXTERNAL INVESTMENTS"
+    }
+    ,
+    {
+        "id":27,
+        "code":"MTR 308",
+        "description":"MONTHLY RETURN ON TRANSFER OF PROFIT, DIVIDEND AND CAPITAL"
+    }
+    ,
+    {
+        "id":28,
+        "code":"MTR 316",
+        "description":"RETURN ON FOREIGN EXCHANGE PURCHASED BY BANKS FROM OIL AND OIL SERVICES"
+    }
+    ,
+    {
+        "id":29,
+        "code":"MTR 319",
+        "description":"ISUANCE OF LETTERS OF CREDIT (TED/LC)"
+    }
+]

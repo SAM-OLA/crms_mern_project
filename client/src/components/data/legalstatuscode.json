@@ -1,0 +1,64 @@
+[
+ 
+	{
+	     "id":1,
+	     "code":"40001",
+	     "description":"Individual Nigerian"
+	},
+	{
+	     "id":2,
+	     "code":"40002",
+	     "description":"Sole Proprietor"
+	},
+	{
+	     "id":3,
+	     "code":"40003",
+	     "description":"Partnership"
+	},
+	{
+	     "id":4,
+	     "code":"40004",
+	     "description":"Private Limited"
+	},
+	{
+	     "id":5,
+	     "code":"40005",
+	     "description":"Public Limited"
+	},
+	{
+	     "id":6,
+	     "code":"40006",
+	     "description":"Joint Account"
+	},
+	{
+	     "id":7,
+	     "code":"40007",
+	     "description":"Individual (Nigerian/Expatriate)"
+	},
+	{
+	     "id":8,
+	     "code":"40008",
+	     "description":"Government"
+	},
+	{
+	     "id":9,
+	     "code":"40009",
+	     "description":"Parastatals"
+	},
+	{
+	     "id":10,
+	     "code":"40010",
+	     "description":"Trade Union"
+	},
+	{
+	     "id":11,
+	     "code":"40011",
+	     "description":"Society/Association"
+	},
+	{
+	     "id":12,
+	     "code":"40012",
+	     "description":"Cooperative"
+	}
+
+]

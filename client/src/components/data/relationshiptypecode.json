@@ -1,0 +1,39 @@
+[
+ 
+	{
+	     "id":1,
+	     "code":"RT001",
+	     "description":"Regular Client"
+	},
+	{
+	     "id":2,
+	     "code":"RT002",
+	     "description":"Insider Related - Directors"
+	},
+	{
+	     "id":3,
+	     "code":"RT003",
+	     "description":"Insider Related - Executive Mgt"
+	},
+	{
+	     "id":4,
+	     "code":"RT004",
+	     "description":"Insider Related - Non-Exec Staff"
+	},
+	{
+	     "id":5,
+	     "code":"RT005",
+	     "description":"Subsidiaries/Affiliates"
+	},
+	{
+	     "id":6,
+	     "code":"RT006",
+	     "description":"Politically Exposed Person (PEP)"
+	},
+	{
+	     "id":7,
+	     "code":"RT007",
+	     "description":"Financially Exposed Person (FEP)"
+	}
+
+]

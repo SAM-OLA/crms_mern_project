@@ -1,0 +1,772 @@
+[
+ 
+	{
+	     "id":1,
+	     "code":"40110",
+	     "description":"Crop Production",
+	     "group":"40100: AGRICULTURE"
+	},
+	{
+	     "id":2,
+	     "code":"40120",
+	     "description":"Poultry and livestock",
+	     "group":"40100: AGRICULTURE"
+	},
+	{
+	     "id":3,
+	     "code":"40130",
+	     "description":"Fishing",
+	     "group":"40100: AGRICULTURE"
+	},
+	{
+	     "id":4,
+	     "code":"40140",
+	     "description":"Plantation",
+	     "group":"40100: AGRICULTURE"
+	},
+	{
+	     "id":5,
+	     "code":"40150",
+	     "description":"Agro Services",
+	     "group":"40100: AGRICULTURE"
+	},
+	{
+	     "id":6,
+	     "code":"40160",
+	     "description":"Cash Crop",
+	     "group":"40100: AGRICULTURE"
+	},
+	{
+	     "id":7,
+	     "code":"40210",
+	     "description":"Metal: Tin, Iron, etc",
+	     "group":"40200: MINING AND QUARRYING"
+	},
+	{
+	     "id":8,
+	     "code":"40220",
+	     "description":"Non-metal Quarrying",
+	     "group":"40200: MINING AND QUARRYING"
+	},
+	{
+	     "id":9,
+	     "code":"40230",
+	     "description":"Others",
+	     "group":"40200: MINING AND QUARRYING"
+	},
+	{
+	     "id":10,
+	     "code":"40301",
+	     "description":"Flourmills and Bakeries",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":11,
+	     "code":"40302",
+	     "description":"Food manufacturing",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":12,
+	     "code":"40303",
+	     "description":"Beverages",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":13,
+	     "code":"40304",
+	     "description":"Aluminium and allied products",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":14,
+	     "code":"40305",
+	     "description":"Basic Metal Products",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":15,
+	     "code":"40306",
+	     "description":"Breweries",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":16,
+	     "code":"40307",
+	     "description":"Building materials",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":17,
+	     "code":"40308",
+	     "description":"Cement",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":18,
+	     "code":"40309",
+	     "description":"Chemicals and Allied products",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":19,
+	     "code":"40310",
+	     "description":"Footwear",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":20,
+	     "code":"40311",
+	     "description":"Hides and Skin",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":21,
+	     "code":"40312",
+	     "description":"Household Equipment",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":22,
+	     "code":"40313",
+	     "description":"Pharmaceuticals",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":23,
+	     "code":"40314",
+	     "description":"Paints and Allied products",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":24,
+	     "code":"40315",
+	     "description":"Miscellaneous Manufacturing",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":25,
+	     "code":"40316",
+	     "description":"Paper and Paper products",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":26,
+	     "code":"40317",
+	     "description":"Printing and Publishing",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":27,
+	     "code":"40318",
+	     "description":"Personal care",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":28,
+	     "code":"40319",
+	     "description":"Plastics",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":29,
+	     "code":"40320",
+	     "description":"Rubber and Allied products",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":30,
+	     "code":"40321",
+	     "description":"Steel Rolling Mills",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":31,
+	     "code":"40322",
+	     "description":"Soft Drinks",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":32,
+	     "code":"40323",
+	     "description":"Cables and Mines",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":33,
+	     "code":"40324",
+	     "description":"Textiles and Apparel",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":34,
+	     "code":"40325",
+	     "description":"Tyre",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":35,
+	     "code":"40326",
+	     "description":"Conglomerate",
+	     "group":"40300: MANUFACTURING"
+	},
+	{
+	     "id":36,
+	     "code":"40510",
+	     "description":"Residential Mortgage Loans",
+	     "group":"40500: REAL ESTATE"
+	},
+	{
+	     "id":37,
+	     "code":"40520",
+	     "description":"Commercial Property",
+	     "group":"40500: REAL ESTATE"
+	},
+	{
+	     "id":38,
+	     "code":"40530",
+	     "description":"Home Equity",
+	     "group":"40500: REAL ESTATE"
+	},
+	{
+	     "id":39,
+	     "code":"40540",
+	     "description":"Real estate Construction/ Home Developers",
+	     "group":"40500: REAL ESTATE"
+	},
+	{
+	     "id":40,
+	     "code":"40550",
+	     "description":"Real estate (Income-Producing)",
+	     "group":"40500: REAL ESTATE"
+	},
+	{
+	     "id":41,
+	     "code":"40560",
+	     "description":"High-volatility Commercial real estate",
+	     "group":"40500: REAL ESTATE"
+	},
+	{
+	     "id":42,
+	     "code":"40610",
+	     "description":"Utility (Public)",
+	     "group":"40600: PUBLIC UTILITIES"
+	},
+	{
+	     "id":43,
+	     "code":"40620",
+	     "description":"Utility (Private)",
+	     "group":"40600: PUBLIC UTILITIES"
+	},
+	{
+	     "id":44,
+	     "code":"40710",
+	     "description":"Automotive parts",
+	     "group":"40700: GENERAL COMMERCE"
+	},
+	{
+	     "id":45,
+	     "code":"40720",
+	     "description":"Domestic trade",
+	     "group":"40700: GENERAL COMMERCE"
+	},
+	{
+	     "id":46,
+	     "code":"40730",
+	     "description":"Automobile (Motor Vehicles)",
+	     "group":"40700: GENERAL COMMERCE"
+	},
+	{
+	     "id":47,
+	     "code":"40740",
+	     "description":"Food Processing",
+	     "group":"40700: GENERAL COMMERCE"
+	},
+	{
+	     "id":48,
+	     "code":"40750",
+	     "description":"Chemicals and Allied Products",
+	     "group":"40700: GENERAL COMMERCE"
+	},
+	{
+	     "id":49,
+	     "code":"40760",
+	     "description":"Trading (Rice)",
+	     "group":"40700: GENERAL COMMERCE"
+	},
+	{
+	     "id":50,
+	     "code":"40770",
+	     "description":"Trading (Cocoa)",
+	     "group":"40700: GENERAL COMMERCE"
+	},
+	{
+	     "id":51,
+	     "code":"40780",
+	     "description":"Generator set (sales and services)",
+	     "group":"40700: GENERAL COMMERCE"
+	},
+	{
+	     "id":52,
+	     "code":"40810",
+	     "description":" Road transport",
+	     "group":"40800: TRANSPORTATION AND  STORAGE"
+	},
+	{
+	     "id":53,
+	     "code":"40820",
+	     "description":"Water transport",
+	     "group":"40800: TRANSPORTATION AND  STORAGE"
+	},
+	{
+	     "id":54,
+	     "code":"40830",
+	     "description":"Air transport",
+	     "group":"40800: TRANSPORTATION AND  STORAGE"
+	},
+	{
+	     "id":55,
+	     "code":"40840",
+	     "description":"Warehousing and support activities for transportation",
+	     "group":"40800: TRANSPORTATION AND  STORAGE"
+	},
+	{
+	     "id":56,
+	     "code":"40850",
+	     "description":"Postal and courier activities",
+	     "group":"40800: TRANSPORTATION AND  STORAGE"
+	},
+	{
+	     "id":57,
+	     "code":"40910",
+	     "description":"Commercial bank",
+	     "group":"40900: FINANCE AND INSURANCE"
+	},
+	{
+	     "id":58,
+	     "code":"40920",
+	     "description":"Microfinance bank",
+	     "group":"40900: FINANCE AND INSURANCE"
+	},
+	{
+	     "id":59,
+	     "code":"40930",
+	     "description":"Asset management",
+	     "group":"40900: FINANCE AND INSURANCE"
+	},
+	{
+	     "id":60,
+	     "code":"40940",
+	     "description":"Mortgage institutions",
+	     "group":"40900: FINANCE AND INSURANCE"
+	},
+	{
+	     "id":61,
+	     "code":"40950",
+	     "description":"Insurance companies",
+	     "group":"40900: FINANCE AND INSURANCE"
+	},
+	{
+	     "id":62,
+	     "code":"40960",
+	     "description":"Pension Fund custodians",
+	     "group":"40900: FINANCE AND INSURANCE"
+	},
+	{
+	     "id":63,
+	     "code":"40970",
+	     "description":"Pension Fund administrators",
+	     "group":"40900: FINANCE AND INSURANCE"
+	},
+	{
+	     "id":64,
+	     "code":"40980",
+	     "description":"Stock broking firms",
+	     "group":"40900: FINANCE AND INSURANCE"
+	},
+	{
+	     "id":65,
+	     "code":"40990",
+	     "description":"Other financial institutions",
+	     "group":"40900: FINANCE AND INSURANCE"
+	},
+	{
+	     "id":66,
+	     "code":"41010",
+	     "description":"Hotel and leisure",
+	     "group":"41000: GENERAL"
+	},
+	{
+	     "id":67,
+	     "code":"41020",
+	     "description":"Personal",
+	     "group":"41000: GENERAL"
+	},
+	{
+	     "id":68,
+	     "code":"41030",
+	     "description":"Religious bodies",
+	     "group":"41000: GENERAL"
+	},
+	{
+	     "id":69,
+	     "code":"41040",
+	     "description":"Retail (others)",
+	     "group":"41000: GENERAL"
+	},
+	{
+	     "id":70,
+	     "code":"41050",
+	     "description":"Logistics",
+	     "group":"41000: GENERAL"
+	},
+	{
+	     "id":71,
+	     "code":"41210",
+	     "description":"Federal (Direct)",
+	     "group":"41200: GOVERNMENT"
+	},
+	{
+	     "id":72,
+	     "code":"41220",
+	     "description":"Federal (Parastatal)",
+	     "group":"41200: GOVERNMENT"
+	},
+	{
+	     "id":73,
+	     "code":"41230",
+	     "description":"State (Direct)",
+	     "group":"41200: GOVERNMENT"
+	},
+	{
+	     "id":74,
+	     "code":"41240",
+	     "description":"State (Parastatal)",
+	     "group":"41200: GOVERNMENT"
+	},
+	{
+	     "id":75,
+	     "code":"41250",
+	     "description":"Local (Direct)",
+	     "group":"41200: GOVERNMENT"
+	},
+	{
+	     "id":76,
+	     "code":"41260",
+	     "description":"Local (Parastatal)",
+	     "group":"41200: GOVERNMENT"
+	},
+	{
+	     "id":77,
+	     "code":"41310",
+	     "description":"Water collection, treatment and supply",
+	     "group":"41300: WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES"  
+	},
+	{
+	     "id":78,
+	     "code":"41320",
+	     "description":"Sewerage",
+	     "group":"41300: WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES"  
+	},
+	{
+	     "id":79,
+	     "code":"41330",
+	     "description":"Waste collection, treatment and disposal activities; materials recovery",
+	     "group":"41300: WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES"  
+	},
+	{
+	     "id":80,
+	     "code":"41340",
+	     "description":"Remediation activities and other waste management services",
+	     "group":"41300: WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES"  
+	},
+	{
+	     "id":81,
+	     "code":"41410",
+	     "description":"Civil engineering",
+	     "group":"41400: CONSTRUCTION"
+	},
+	{
+	     "id":82,
+	     "code":"41420",
+	     "description":"Specialized construction activities",
+	     "group":"41400: CONSTRUCTION"
+	},
+	{
+	     "id":83,
+	     "code":"41510",
+	     "description":"Publishing activities",
+	     "group":"41500: INFORMATION AND COMMUNICATION"
+	},
+	{
+	     "id":84,
+	     "code":"41520",
+	     "description":"Motion picture, video and television programme production, sound recording and music publishing activities",
+	     "group":"41500: INFORMATION AND COMMUNICATION"
+	},
+	{
+	     "id":85,
+	     "code":"41530",
+	     "description":"Programming and broadcasting activities",
+	     "group":"41500: INFORMATION AND COMMUNICATION"
+	},
+	{
+	     "id":86,
+	     "code":"41540",
+	     "description":"Telecommunications",
+	     "group":"41500: INFORMATION AND COMMUNICATION"
+	},
+	{
+	     "id":87,
+	     "code":"41550",
+	     "description":"Computer programming, consultancy and related activities",
+	     "group":"41500: INFORMATION AND COMMUNICATION"
+	},
+	{
+	     "id":88,
+	     "code":"41560",
+	     "description":"Information service activities",
+	     "group":"41500: INFORMATION AND COMMUNICATION"
+	},
+	{
+	     "id":89,
+	     "code":"41610",
+	     "description":"Legal and accounting activities",
+	     "group":"41600: PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES"
+	},
+	{
+	     "id":90,
+	     "code":"41620",
+	     "description":"Activities of head offices; management consultancy activities",        
+	     "group":"41600: PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES"
+	},
+	{
+	     "id":91,
+	     "code":"41630",
+	     "description":"Architectural and engineering activities; technical testing and analysis",
+	     "group":"41600: PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES"
+	},
+	{
+	     "id":92,
+	     "code":"41640",
+	     "description":"Scientific research and development",
+	     "group":"41600: PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES"
+	},
+	{
+	     "id":93,
+	     "code":"41650",
+	     "description":"Advertising and market research",
+	     "group":"41600: PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES"
+	},
+	{
+	     "id":94,
+	     "code":"41660",
+	     "description":"Other professional, scientific and technical activities",
+	     "group":"41600: PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES"
+	},
+	{
+	     "id":95,
+	     "code":"41670",
+	     "description":"Veterinary activities",
+	     "group":"41600: PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES"
+	},
+	{
+	     "id":96,
+	     "code":"41710",
+	     "description":"Rental and leasing activities",
+	     "group":"41700: ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES"
+	},
+	{
+	     "id":97,
+	     "code":"41720",
+	     "description":"Employment activities",
+	     "group":"41700: ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES"
+	},
+	{
+	     "id":98,
+	     "code":"41730",
+	     "description":"Travel agency, tour operator, reservation service and related activities",
+	     "group":"41700: ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES"
+	},
+	{
+	     "id":99,
+	     "code":"41740",
+	     "description":"Security and investigation activities",
+	     "group":"41700: ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES"
+	},
+	{
+	     "id":100,
+	     "code":"41750",
+	     "description":"Services to buildings and landscape activities",
+	     "group":"41700: ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES"
+	},
+	{
+	     "id":101,
+	     "code":"41760",
+	     "description":"Office administrative, office support and other business support activities",
+	     "group":"41700: ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES"
+	},
+	{
+	     "id":102,
+	     "code":"41810",
+	     "description":"Pre Primary and primary education",
+	     "group":"41800: EDUCATION"
+	},
+	{
+	     "id":103,
+	     "code":"41820",
+	     "description":"Post primary education",
+	     "group":"41800: EDUCATION"
+	},
+	{
+	     "id":104,
+	     "code":"41830",
+	     "description":"Tertiary education",
+	     "group":"41800: EDUCATION"
+	},
+	{
+	     "id":105,
+	     "code":"41840",
+	     "description":"Other education",
+	     "group":"41800: EDUCATION"
+	},
+	{
+	     "id":106,
+	     "code":"41850",
+	     "description":"Educational support services",
+	     "group":"41800: EDUCATION"
+	},
+	{
+	     "id":107,
+	     "code":"41910",
+	     "description":"Human health activities",
+	     "group":"41900: HUMAN HEALTH AND SOCIAL WORK ACTIVITIES"
+	},
+	{
+	     "id":108,
+	     "code":"41920",
+	     "description":"Residential care activities",
+	     "group":"41900: HUMAN HEALTH AND SOCIAL WORK ACTIVITIES"
+	},
+	{
+	     "id":109,
+	     "code":"41930",
+	     "description":"Social work activities without accommodation",
+	     "group":"41900: HUMAN HEALTH AND SOCIAL WORK ACTIVITIES"
+	},
+	{
+	     "id":110,
+	     "code":"42010",
+	     "description":"Creative, arts and entertainment activities",
+	     "group":"42000: ARTS, ENTERTAINMENT AND RECREATION"
+	},
+	{
+	     "id":111,
+	     "code":"42020",
+	     "description":"Libraries, archives, museums and other cultural activities",
+	     "group":"42000: ARTS, ENTERTAINMENT AND RECREATION"
+	},
+	{
+	     "id":112,
+	     "code":"42030",
+	     "description":"Gambling and betting activities",
+	     "group":"42000: ARTS, ENTERTAINMENT AND RECREATION"
+	},
+	{
+	     "id":113,
+	     "code":"42040",
+	     "description":"Sports activities and amusement and recreation activities",
+	     "group":"42000: ARTS, ENTERTAINMENT AND RECREATION"
+	},
+	{
+	     "id":114,
+	     "code":"42110",
+	     "description":"Activities of Extraterritorial Organizations and Bodies",
+	     "group":"42100: ACTIVITIES OF EXTRATERRITORIAL ORGANIZATIONS AND BODIES"
+	},
+	{
+	     "id":115,
+	     "code":"42210",
+	     "description":"Independent Power Projects (IPP)",
+	     "group":"42200: POWER AND ENERGY"
+	},
+	{
+	     "id":116,
+	     "code":"42220",
+	     "description":"Power generation/power plants",
+	     "group":"42200: POWER AND ENERGY"
+	},
+	{
+	     "id":117,
+	     "code":"42230",
+	     "description":"Power transmission",
+	     "group":"42200: POWER AND ENERGY"
+	},
+	{
+	     "id":118,
+	     "code":"42240",
+	     "description":"Power distribution",
+	     "group":"42200: POWER AND ENERGY"
+	},
+	{
+	     "id":119,
+	     "code":"42310",
+	     "description":"Margin lending",
+	     "group":"42300: CAPITAL MARKET"
+	},
+	{
+	     "id":120,
+	     "code":"42320",
+	     "description":"Proprietary trading",
+	     "group":"42300: CAPITAL MARKET"
+	},
+	{
+	     "id":121,
+	     "code":"42330",
+	     "description":"Share loans",
+	     "group":"42300: CAPITAL MARKET"
+	},
+	{
+	     "id":122,
+	     "code":"42340",
+	     "description":"Share underwriting",
+	     "group":"42300: CAPITAL MARKET"
+	},
+	{
+	     "id":123,
+	     "code":"42350",
+	     "description":"Bonds/ debt obligations",
+	     "group":"42300: CAPITAL MARKET"
+	},
+	{
+	     "id":124,
+	     "code":"42410",
+	     "description":"Oil - downstream",
+	     "group":"42400: OIL AND GAS"
+	},
+	{
+	     "id":125,
+	     "code":"42420",
+	     "description":"Oil - upstream",
+	     "group":"42400: OIL AND GAS"
+	},
+	{
+	     "id":126,
+	     "code":"42430",
+	     "description":"Natural gas",
+	     "group":"42400: OIL AND GAS"
+	},
+	{
+	     "id":127,
+	     "code":"42440",
+	     "description":"Crude oil refining",
+	     "group":"42400: OIL AND GAS"
+	},
+	{
+	     "id":128,
+	     "code":"42450",
+	     "description":"Oil & Gas Services",
+	     "group":"42400: OIL AND GAS"
+	}
+    
+]
